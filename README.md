@@ -27,14 +27,20 @@ A simple and effective web app to save and manage your favorite website URLs. Bu
 leads-tracker/
 │
 ├── index.html # Main HTML file
+
 ├── styles.css # Styling
+
 ├── index.js # JavaScript logic
-├── manifest.json # PWA support (optional)
-├── icons/ # PWA icons (optional)
+
+├── manifest.json # PWA support 
+
+├── icons/ # PWA icons
+
 └── README.md # This file
 
 
 🙌 Acknowledgments
+
 Scrimba (for original project inspiration)
 
 Firebase team
